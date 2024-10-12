@@ -4,8 +4,8 @@ from email.mime.text import MIMEText
 import time
 
 # Gmail credentials
-gmail_user = 'onamikaonu086@gmail.com'
-gmail_password = '00iamszs00!147'
+gmail_user = ''
+gmail_password = ''
 
 # Email content
 subject = 'Inquiry About Property Management Services for a 6-Unit Building'
